@@ -17,8 +17,6 @@
 ### 🔗 바로가기
 
 [![Website](https://img.shields.io/badge/OFFICIAL%20WEBSITE-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://bangeohoe.hallym-ac.workers.dev)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/인스타그램아이디)
-[![Contact](https://img.shields.io/badge/CONTACT%20US-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:동아리공식메일@gmail.com)
 
 ---
 
